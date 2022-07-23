@@ -10,5 +10,5 @@
 - hooks : useContext, useState, useReducer, useEffect, useRef
 - sending http requests (GET,POST)
 - building custom react hooks
-- wrking with forms
-- wrking with Firebase
+- working with forms
+- working with Firebase
