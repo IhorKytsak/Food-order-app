@@ -8,3 +8,7 @@
 - react fragments
 - working with ref
 - hooks : useContext, useState, useReducer, useEffect, useRef
+- sending http requests (GET,POST)
+- building custom react hooks
+- wrking with forms
+- wrking with Firebase
