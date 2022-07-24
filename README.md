@@ -1,5 +1,7 @@
 # React educational project
 
+## git-pages >>> "https://ihorkytsak.github.io/Food-order-app"
+
 ## The main technologies , approaches or features of React that were used :
 
 - reusable components
